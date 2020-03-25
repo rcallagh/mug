@@ -10,6 +10,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 - [Rotten Tomatoes Game](games/rottentomatoesgame.md)
 - [The Generation Name](games/generationname.md)
+- [Motorway Start and End Game](games/motorwaystartendgame.md)
+- [Doesn't have a name (Birthday Song Game)](games/birthdaysonggame.md)
+- [Death Zoo](games/deathzoo.md)
+- [Play Your Casks Right](games/playyourcasksright.md)
+- [Ooh, What's The Weather?](games/oohwhatstheweather.md)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
