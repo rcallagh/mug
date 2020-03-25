@@ -1,10 +1,7 @@
 ## Welcome to Made Up Games
 
-This site will hold an archive of all the made up games from the Elis James and John Robins podcast.
+This site will hold an archive of all the made up games from the [Elis James and John Robins podcast](https://www.bbc.co.uk/programmes/m0005fdz/episodes/downloads).
 
-Go to [page 1](page1.md)
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### List of games
 
@@ -17,12 +14,5 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - [Ooh, What's The Weather?](games/oohwhatstheweather.md)
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rcallagh/rcallagh.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Info
+I extracted the rules for most of these games using automated audio transcription software, with some manual editing for punctuation and clarity. That being said, some of the rules may be unclear so the best source is obviously just to listen to the podcast and hear the game being played. 
