@@ -16,7 +16,8 @@ This site will hold an archive of all the made up games from the [Elis James and
 - [Currency Bingo](games/currencybingo.md)
 - [Five a Day](games/fiveaday.md)
 - [Spotifive](games/spotifive.md)
+- [Dominames](games/dominames.md)
+- [No name (How long is a while?)](games/howlongisawhile.md)
 
-
-#### Info
-I extracted the rules for most of these games using automated audio transcription software, with some manual editing for punctuation and clarity. That being said, some of the rules may be unclear so the best source is obviously just to listen to the podcast and hear the game being played.
+### Info
+I extracted the rules for most of these games verbatim from the podcast using automated audio transcription software, with some manual editing for punctuation and clarity. That being said, some of the rules may be unclear so the best source is obviously just to listen to the podcast and hear the game being played.
