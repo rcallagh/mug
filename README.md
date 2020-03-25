@@ -1,32 +1,16 @@
 ## Welcome to Made Up Games
 
-This site will hold an archive of all the made up games from the Elis James and John Robins podcast. 
+This site will hold an archive of all the made up games from the Elis James and John Robins podcast.
 
 Go to [page 1](page1.md)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### List of games
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- [Rotten Tomatoes Game](games/rottentomatoesgame.md)
+- [The Generation Name](games/generationname.md)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](page1.md) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
