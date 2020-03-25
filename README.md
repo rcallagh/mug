@@ -1,6 +1,6 @@
 ## Welcome to Made Up Games
 
-You can use the [editor on GitHub](https://github.com/rcallagh/rcallagh.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This site will hold an archive of all the made up games from the Elis James and John Robins podcast. 
 
 Go to [page 1](page1.md)
 
