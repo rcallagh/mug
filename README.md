@@ -4,8 +4,8 @@ An archive of all the made up games played on the wonderful [Elis James and John
 
 If you want to really recreate the Made Up Games experience at home here's the [jingle](audio/jingle.mp3).
 
-### List of games
-For a full list of games that have been archived so far, go [here](games/READMe.md).
+### The games
+For a full list of games that have been archived so far, go [here](games/README.md).
 Below is a selection of personal favourites.
 
 - [Rotten Tomatoes Game](games/rottentomatoesgame.md)
