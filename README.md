@@ -27,3 +27,6 @@ If you want to really recreate the Made Up Games experience at home here's the [
 
 ### Info
 I extracted the rules for most of these games verbatim from the podcast using automated audio transcription software, with some manual editing for punctuation and clarity. That being said, some of the rules may be unclear so the best source is obviously just to listen to the podcast and hear the game being played.
+
+### Contribute
+If you want to contribute to the made up games archive, that would be greatly appreciated. You can email [games@madeupgames.me](games@madeupgames.me) with the name, rules and podcast episode for any game that's not on the list. If you know how to make a pull request on github, then by all means do that, the format I'm using is straightforward markdown. 
