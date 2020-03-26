@@ -23,6 +23,8 @@ If you want to really recreate the Made Up Games experience at home here's the [
 - [Estimodes](games/estimodes.md)
 - [Scrabbled](games/scrabbled.md)
 - [No name (Stadium game)](games/stadiumgame.md)
+- [No name (Used car game)](games/usedcargame.md)
+- [No name (Journeyman footballer game)](games/journeymanfootballers.md) - John’s game for Elis and Josh Widdicombe
 
 
 ### Info
