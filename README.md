@@ -5,26 +5,18 @@ An archive of all the made up games played on the wonderful [Elis James and John
 If you want to really recreate the Made Up Games experience at home here's the [jingle](audio/jingle.mp3).
 
 ### List of games
+For a full list of games that have been archived so far, go [here](games/READMe.md).
+Below is a selection of personal favourites.
 
 - [Rotten Tomatoes Game](games/rottentomatoesgame.md)
 - [The Generation Name](games/generationname.md)
-- [Motorway Start and End Game](games/motorwaystartendgame.md)
-- [Doesn't have a name (Birthday Song Game)](games/birthdaysonggame.md)
 - [Death Zoo](games/deathzoo.md)
-- [Play Your Casks Right](games/playyourcasksright.md)
 - [Ooh, What's The Weather?](games/oohwhatstheweather.md)
 - [No name (Ball Speed Game)](games/ballspeedgame.md)
 - [Currency Bingo](games/currencybingo.md)
-- [Five a Day](games/fiveaday.md)
 - [Spotifive](games/spotifive.md)
-- [Dominames](games/dominames.md)
-- [No name (How long is a while?)](games/howlongisawhile.md)
-- [No name (Town game)](games/towngame.md)
 - [Estimodes](games/estimodes.md)
-- [Scrabbled](games/scrabbled.md)
 - [No name (Stadium game)](games/stadiumgame.md)
-- [No name (Used car game)](games/usedcargame.md)
-- [No name (Journeyman footballer game)](games/journeymanfootballers.md) - John’s game for Elis and Josh Widdicombe
 
 
 ### Info
