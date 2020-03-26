@@ -19,3 +19,5 @@
 - [No name (Stadium game)](games/stadiumgame.md)
 - [No name (Used car game)](games/usedcargame.md)
 - [No name (Journeyman footballer game)](games/journeymanfootballers.md) - John’s game for Elis and Josh Widdicombe
+- [Baby Age Fanclub](games/babyagefanclub.md)
+- [One Hit Wonders](games/onehitwonders.md)
