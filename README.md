@@ -2,6 +2,8 @@
 
 An archive of all the made up games played on the wonderful [Elis James and John Robins podcast](https://www.bbc.co.uk/programmes/m0005fdz/episodes/downloads). Currently working through the BBC podcast and adding the games from there.
 
+Upon starting this, I realised that there is a more polished version of this at [playamadeupgame.com](https://playamadeupgame.com).
+
 If you want to really recreate the Made Up Games experience at home here's the [jingle](audio/jingle.mp3).
 
 ### The games
